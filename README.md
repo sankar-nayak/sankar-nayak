@@ -1,3 +1,8 @@
+<!-- Cover banner (auto-generated). To use your own image instead, replace the src below with: assets/cover.png -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6DB33F&height=220&section=header&text=Sankar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Java%20Developer%20%7C%20Spring%20Boot%20%7C%20SQL&descSize=22&descAlignY=60&animation=fadeIn" />
+</p>
+
 <h1 align="center">Hi, I'm Sankar 👋</h1>
 
 <h3 align="center">Aspiring Java Backend Developer</h3>
@@ -92,7 +97,7 @@ I'm actively looking for **Java Developer opportunities**. Feel free to reach ou
   <a href="https://www.linkedin.com/in/sankar-nayak-a548061ab">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:nykgudu590@gmail.co">
+  <a href="mailto:nykgudu590@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -101,4 +106,8 @@ I'm actively looking for **Java Developer opportunities**. Feel free to reach ou
 
 <p align="center">
   ⭐ <i>"Every expert was once a beginner. Consistency beats talent."</i> ⭐
+</p>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6DB33F&height=120&section=footer" />
 </p>
