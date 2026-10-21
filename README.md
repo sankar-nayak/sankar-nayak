@@ -1,6 +1,9 @@
-<!-- Custom cover: file must be at assets/cover.svg in the sankar-nayak/sankar-nayak repository (branch: main) -->
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/sankar-nayak/sankar-nayak/main/assets/cover.svg" alt="Sankar - Java developer code card" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6DB33F&height=200&section=header&text=Sankar%20Nayak&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=%7B%20code%20%7D%20%20build%20%20%7B%20deploy%20%7D&descSize=20&descAlignY=62&animation=fadeIn" alt="Sankar Nayak cover" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=6DB33F&center=true&vCenter=true&width=720&height=50&lines=public+class+Sankar+%7B;String+role+%3D+%22Java+Backend+Developer%22%3B;String%5B%5D+stack+%3D+%7B%22Java%22%2C+%22SQL%22%2C+%22Spring+Boot%22%7D%3B;while+(true)+%7B+learn()%3B+code()%3B+commit()%3B+%7D" alt="Typing Java code animation" />
 </p>
 
 <h1 align="center">Hi, I'm Sankar 👋</h1>
