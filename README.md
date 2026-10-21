@@ -1,6 +1,6 @@
-<!-- Cover banner (auto-generated). To use your own image instead, replace the src below with: assets/cover.png -->
+<!-- Custom cover: upload the "assets" folder (containing cover.svg) to your profile repository -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6DB33F&height=220&section=header&text=Sankar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Java%20Developer%20%7C%20Spring%20Boot%20%7C%20SQL&descSize=22&descAlignY=60&animation=fadeIn" />
+  <img width="100%" src="assets/cover.svg" alt="Sankar - Java developer code card" />
 </p>
 
 <h1 align="center">Hi, I'm Sankar 👋</h1>
@@ -84,7 +84,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=sankar-nayak&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
